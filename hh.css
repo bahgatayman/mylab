@@ -1,0 +1,293 @@
+body{
+margin: 0;
+padding: 0;
+
+}
+
+.tab{
+    font-size: 35px;
+}
+
+.fi{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+
+}
+
+.tex1{
+font-size: 25px;
+font-weight: bold;
+}
+.tlap{
+    color: orange;
+}
+.lapp{
+width: 450px;
+height: 300px;
+
+}
+
+
+.card {
+    width: 250px;
+    height: 360px;
+    margin: 10px;
+    padding: 0px;
+    background-color:white; color: black;
+    border: 1px black solid;
+    text-align: center;
+    border-radius:5%;
+    
+}
+
+
+
+.tit{
+    color: orange;
+}
+.bb{
+width: 200px;
+height: 200px;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+.text {
+color: white;
+
+}
+
+button{
+    width: 180px;
+    height: 40px;
+    background: orange;
+color: black;
+font-size: 15px;
+border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ff{
+display: flex;
+justify-content: space-around;
+background-color: black;
+padding: 50px;
+}
+
+.bb{
+width: 300px;
+height: 300px;
+border-radius: 60%;
+}
+
+nav{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 0 10px 5px gray;
+  }
+  
+  header{
+    color: orange;
+    font-weight: bold;
+    font-size: 30px;
+  }
+  
+  aside{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  aside a{
+    text-decoration: none;
+    color: #000;
+  }
+
+  aside a:hover{
+    color: orange;
+    border-bottom: 2px solid orange;
+  }
+
+.nav{
+text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    justify-content: center;
+}
+
+
+
+.men{
+text-align: center;
+font-size: 40px;
+
+}
+
+.star{
+    justify-content: center;
+    display: flex
+}
+
+.starr{
+width: 20px;
+height: 20px;
+
+}
+
+.buttonorder{
+border-radius: 5px;
+background-color: black;
+color: aliceblue;
+
+}
+
+.gim{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.imageg{
+    width: 400px;
+    height: 200px;
+    margin: 0;
+    padding: 5px;
+    
+
+}
+
+
+
+
+.revc{
+    color: orange;
+}
+
+.tik{
+    display: flex;
+    justify-content: center;
+}
+.pic{
+justify-content: center;
+text-align: center;
+width: 200px;
+height: 260px;
+margin: 25px;
+padding: 5px;
+background-color: white; color: black;
+border: 1px black solid;
+border-radius: 3%;
+}
+
+
+
+.ttt{
+    display: flex;
+    text-align: center;
+}
+.pico{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.texord{
+text-align: center;
+font-size: 40px;
+}
+
+.or{ color: orange;}
+
+.order{
+display: flex;
+justify-content: center;
+
+}
+
+.imorder{
+    width: 400px;
+    height: 500px;
+}
+
+.ord{
+width: 300px;
+height: 500px;
+display: flex;
+flex-wrap: wrap;
+}
+
+.d1{
+    display: flex;
+}
+
+.d2{
+    display: flex;}
+    .d3{display: flex;}
+
+.ppp{
+    width: 250px;
+    height: 30px;
+    background-color:beige;
+    margin: 10px;
+    padding: 0px;
+}
+
+.contain{
+max-width: 1170px;
+margin: auto;
+
+}
+.ul{
+    list-style: none;
+}
+    
+.footer{
+background-color: #24262b;
+color: white;
+padding: 70px 0;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.footer-col{
+
+width: 25%;
+padding: 0 15px;
+}
+
+.footer-col h4{
+font-size: 18px;
+color: white;
+text-transform: capitalize;
+margin-bottom: 30px;
+
+
+}
+
+.footdiv{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.foto{
+    margin: 10px;
+    width: 60px;
+    height: 60px;
+}
+
